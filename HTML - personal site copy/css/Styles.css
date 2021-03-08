@@ -1,0 +1,28 @@
+body {
+  background-color: #262626;
+  color: #e39454;
+}
+
+hr {
+  background-color: #262626;
+  border-style: dotted none none none;
+  width: 5%;
+  border-color: #cdd0cb;
+  border-width: 5px;
+}
+
+img {
+  height: 300px;
+}
+
+h1 {
+  color: #cdd0cb;
+}
+
+h3 {
+  color: #fa4d4d;
+}
+
+.green {
+  color: #8ccf6b;
+}
