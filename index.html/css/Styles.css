@@ -1,0 +1,40 @@
+body {
+  background-color: #262626;
+  color: #e39454;
+  font-size: 18px;
+
+}
+
+hr {
+  background-color: #262626;
+  border-style: groove none none none;
+  width: 100%;
+  border-color: #cdd0cb;
+  border-width: 5px;
+}
+
+img {
+  height: 350px;
+  position: relative;
+  left: 505px;
+
+}
+
+h1 {
+  color: #cdd0cb;
+}
+
+h3 {
+  color: #fa4d4d;
+}
+
+.green {
+  color: #8ccf6b;
+}
+
+.centered {
+  text-align: center;
+}
+ p {
+   text-align: center;
+ }
